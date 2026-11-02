@@ -215,7 +215,7 @@ We are **GFw Team**, a multidisciplinary software engineering and infrastructure
   </a>
   &nbsp;
   <a href="mailto:algfwl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-algfwl@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=050508&labelColor=ffffff" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-algfwla@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=050508&labelColor=ffffff" alt="Email"/>
   </a>
 
   <br/><br/>
